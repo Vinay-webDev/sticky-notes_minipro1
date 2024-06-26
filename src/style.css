@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: hsl(168, 100%, 35%);
+}
+#app {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    padding: 25px;
+    gap: 25px;
+}
+.note {
+    height: 200px;
+    box-sizing: border-box;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 0 7px rgba(0,0,0,0.15);
+    font-family: Arial, sans-serif;
+    font-size: 1.1em;
+    font-weight: bold;
+    resize: none;
+}
+
+
+
+
+
+
+
