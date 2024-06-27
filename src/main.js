@@ -13,7 +13,7 @@ function saveNotes(notes) {
 }
 
 function createNoteElement(id, content) {
-
+    
 }
 
 function addNote() {
